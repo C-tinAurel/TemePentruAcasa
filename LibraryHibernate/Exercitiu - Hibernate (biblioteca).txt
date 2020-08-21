@@ -1,0 +1,18 @@
+ Sa se modeleze o biblioteca 
+Vom folosii urmatoarele entitati :
+a.carte: titlu, nr de volume, autori, gen, borrowed(boolean),free(boolean).
+b.autor: nume, prenume.
+c.sectiune: nume.
+d.person: nume, prenume, adresa, year of birth.
+
+
+Relatii:
+-OneToMany:sectiune/carti
+          
+          
+-OneToOne:autor/carti
+
+-ManyToMany:persoane/carti
+           :persoane/sectiuni
+           :autor/persoane
+            :sectiune/autor    
