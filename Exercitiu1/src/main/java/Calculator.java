@@ -31,5 +31,53 @@ public class Calculator {
 
         }
     }
-    
+
+    //sa se verifice daca un array are elemente
+    public boolean verificareElementeVector(int[] numere) {
+        System.out.println("Afisam daca un vector are elemente sau nu");
+        for (int cursor = 0; cursor < numere.length; cursor++) {
+            if (cursor == 0) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    //sa se verifice daca un array are  elemente pare
+    public int arrayCuVerificareDacaAreElementePare(int[] numere) {
+        System.out.println("Afisam daca vectorul are elemente pare");
+        int numerePare = 0;
+        for (int cursor = 0; cursor < numere.length - 1; cursor++) {
+            if (numere[cursor] % 2 == 0) {
+                numerePare++;
+                System.out.println("afisam dupa conditie " + numere[cursor]);
+
+            }
+        }
+        return numerePare;
+    }
+
+
+    //sa se verifice daca un array are  de elemente impare
+    public int verificareDacaArrayAreNumarImpareDeElemente(int[] numere) {
+        System.out.println("Afisam daca vectorul are elemente impare");
+        int elementeImpare = 0;
+        for (int cursor = 0; cursor < numere.length; cursor++) {
+            if (numere[cursor] % 2 != 0) {
+                System.out.println("Afisam numerele impare " + numere[cursor]);
+                elementeImpare++;
+
+            }
+        }
+        return elementeImpare;
+    }
+
+
+    public int mijlocArray(int[] numere) {
+        int numarInceput=1;
+        int numarSfarsit=numere.length+1;
+        int mid=numarInceput+(numarSfarsit-numarInceput-1)/2;
+        System.out.println("Afisam mijlocul array-ului");
+        return mid;
+    }
 }
