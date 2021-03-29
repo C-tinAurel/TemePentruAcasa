@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e562bbcd-f646-4d19-963b-84d1a4130f27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItStore/src/main/java/NotEnoughQuantityException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1 Tema Paste/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1 Tema Paste/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradinaZoologica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GradinaZoologica/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradinaZoologica/out/production/GradinaZoologica/META-INF/GradinaZoologica.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/HardDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/HardDisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/LaptopDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/LaptopDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/MemoryRam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/MemoryRam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/NoFacilityStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/NoFacilityStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/NotEnoughMoneyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/NotEnoughMoneyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/NotEnoughQunatityException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Pc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Pc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/PcDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/PcDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Periferic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Periferic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Procesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Procesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/SoundPlate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/SoundPlate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/VideoPlate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/VideoPlate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItStore/src/main/java/Webcam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ItStore/src/main/java/Webcam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/dao/AuthorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/dao/AuthorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/dao/BookDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/dao/BookDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryHibernate/src/main/java/persistence/entities/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SdaGalati3JDBCExample/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SdaGalati3JDBCExample/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,40 +61,59 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Exercitiul17">
+    <configuration name="Exercitiul14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercitiul14" />
       <module name="1 Tema Paste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema" />
+    <configuration name="Exercitiul15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercitiul15" />
+      <module name="1 Tema Paste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercitiul16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercitiul16" />
+      <module name="1 Tema Paste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercitiul17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercitiul17" />
+      <module name="1 Tema Paste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercitiul18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercitiul18" />
+      <module name="1 Tema Paste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Tema" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Exercitiul17" />
+        <item itemvalue="Application.Exercitiul18" />
+        <item itemvalue="Application.Exercitiul16" />
+        <item itemvalue="Application.Exercitiul15" />
+        <item itemvalue="Application.Exercitiul14" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,63 +126,5 @@
       <updated>1587373939347</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="485" y="71" key="#Main_(1)" timestamp="1587623384486">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="485" y="71" key="#Main_(1)/0.0.1536.824@0.0.1536.824" timestamp="1587623384486" />
-    <state x="485" y="71" key="#Tema" timestamp="1587719756407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="485" y="71" key="#Tema/0.0.1536.824@0.0.1536.824" timestamp="1587719756407" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588481767313">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588481767313" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588481767312">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588481767312" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588481767312">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588481767312" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588481767312">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588481767312" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587795238407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587795238407" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1587795238407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587795238407" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1587795238407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587795238407" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1587795238407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587795238407" />
-    <state x="408" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587630438587">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="408" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1587630438587" />
-    <state x="209" y="33" key="new project wizard" timestamp="1587798197581">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587798197581" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1587707095381">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587707095381" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587636642610">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587636642610" />
   </component>
 </project>
